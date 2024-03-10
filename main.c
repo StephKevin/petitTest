@@ -5,7 +5,7 @@ int main()
 {
     int a, i, b, c;
     a = 0;
-    for(i=1; i<=10; i++)
+    for(i=1; i<=9; i++)
     {
       a=a*10+i;
       b=i+1;
